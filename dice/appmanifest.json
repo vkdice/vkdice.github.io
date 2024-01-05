@@ -1,0 +1,10 @@
+{
+	"name": "Игра в кости",
+	"short_name": "Игра в кости",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
